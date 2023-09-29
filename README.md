@@ -32,16 +32,4 @@
     <img src="https://skillicons.dev/icons?i=matlab,ros,tensorflow,unity,react,bootstrap,flask,html,css,vscode,git" />
 </div>
 
-<br/>
-<hr/>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ingTikna&type=png)](https://git.io/streak-stats)
-
-<hr/>
-
-<br/>
 
