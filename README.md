@@ -39,7 +39,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ingTikna)](https://git.io/streak-stats)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=ingTikna&type=png)](https://git.io/streak-stats)
 
 <hr/>
 
