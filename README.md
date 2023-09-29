@@ -35,13 +35,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="Snake eating my contributions" src="https://github.com/IngTIKNA/ingTikna/ctb_snake_eating.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 <hr/>
 
