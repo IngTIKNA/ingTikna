@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 My research interests lie in the fields of **Multi-agent systems, Artificial Intelligence, and Automated Planning**
+ 🔭 My research interests lie in the fields of **Artificial Intelligence and Robotics**
 
  
  </div>
